@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a non-functional dentist website designed based on established principles of web design. The website represents a fictional dentist located in Saskatoon. The design choices are guided by heuristic analysis, specifically focusing on 10 general design principles.
+This project is a non-functional dentist website designed based on principles of web design. The website represents a fictional dentist. The design choices are guided by heuristic analysis, specifically focusing on 10 general design principles.
 
 ## Heuristic Analysis
 
